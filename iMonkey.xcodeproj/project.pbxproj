@@ -1101,6 +1101,7 @@
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
 				PRODUCT_NAME = iMonkey;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -1119,6 +1120,7 @@
 				GCC_PREFIX_HEADER = iMonkey_Prefix.pch;
 				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
 				PRODUCT_NAME = iMonkey;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
