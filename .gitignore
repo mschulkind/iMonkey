@@ -3,5 +3,5 @@
 *.pbxuser
 *.perspectivev3
 *.mode1v3
-xcuserdata
+*.xcodeproj/xcuserdata/**
 build
